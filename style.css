@@ -1,4 +1,5 @@
 .state {
+  /* these need to change to be scaled appropriately so that certain images don't get warped*/
   width: 200px;
   height: 200px;
 }
